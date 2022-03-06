@@ -4,7 +4,6 @@
 
 - Coding
 - Cyber Security
-- Networking
 
 ## I am learning:
 
